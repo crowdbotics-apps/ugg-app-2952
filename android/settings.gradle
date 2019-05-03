@@ -1,0 +1,3 @@
+rootProject.name = 'ugg_app_2952'
+
+include ':app'
